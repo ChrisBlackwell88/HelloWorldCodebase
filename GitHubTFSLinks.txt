@@ -1,0 +1,9 @@
+http://blogs.objectsharp.com/post/2015/06/15/TFS-2015-buildrelease-agent-install-and-configure.aspx
+https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
+https://docs.microsoft.com/en-us/vsts/build-release/actions/ci-build-github
+
+https://stackoverflow.com/questions/19636464/connect-tfs-build-service-to-a-github-repo
+https://docs.microsoft.com/en-us/vsts/git/import-git-repository
+http://geekswithblogs.net/jakob/archive/2015/06/12/building-github-repositories-in-tfs-build-vnext.aspx
+https://nkdagility.com/open-source-vsts-tfs-github-better-devops/
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Using-Git-and-GitHub

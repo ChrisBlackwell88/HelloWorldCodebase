@@ -1,0 +1,19 @@
+create new github repository 
+create new Personal access token
+create new TFS admin user login and password
+
+create new HelloWorld C# MVC web application with git version control
+set remote origin repository from comand line:
+git remote add origin https://github.com/chrisybee88/Test.git
+git config --global user.email "chrisybee88@gmail.com"
+git config --global user.name
+
+push local HelloWorld to github 
+
+TFS create new collection
+create new project
+TFS Control Panel, Agent Pools, Downlload Agent, unzip and run ConfigureAgent.cmd
+create new build with continuous integration
+specify repositry as ExternalGit
+create New Service Endpoint
+ExternalGit
