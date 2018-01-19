@@ -1,0 +1,13 @@
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\HelloWorldCodebase.UnitTests.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\HelloWorldCodebase.UnitTests.pdb
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\obj\Debug\HelloWorldCodebase.UnitTests.csprojResolveAssemblyReference.cache
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\obj\Debug\HelloWorldCodebase.UnitTests.csproj.CoreCompileInputs.cache
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\obj\Debug\HelloWorldCodebase.UnitTests.dll
+C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase.UnitTests\obj\Debug\HelloWorldCodebase.UnitTests.pdb
