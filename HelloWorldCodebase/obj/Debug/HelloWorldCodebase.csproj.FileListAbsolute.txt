@@ -36,7 +36,6 @@ C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\bin\Microsoft.AI.DependencyColl
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\bin\Microsoft.AI.WindowsServer.xml
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\bin\Microsoft.AI.Web.xml
-C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\obj\Debug\HelloWorldCodebase.csprojResolveAssemblyReference.cache
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\obj\Debug\HelloWorldCodebase.csproj.CoreCompileInputs.cache
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\obj\Debug\HelloWorldCodebase.dll
 C:\Sandbox\HelloWorldCodebase\HelloWorldCodebase\obj\Debug\HelloWorldCodebase.pdb
