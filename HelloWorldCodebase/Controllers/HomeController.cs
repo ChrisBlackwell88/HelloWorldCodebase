@@ -13,7 +13,6 @@ namespace HelloWorldCodebase.Controllers
             // New code changes here
             // try Visual studio checkin
             // yes visual studio works!!!
-            // test 123 GO!
             return View();
         }
 
